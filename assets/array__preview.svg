@@ -40,13 +40,13 @@
     <style>
       .cls-1 {
       fill: none;
-      stroke: #ffffff;
+      stroke: #df3079;
       stroke-miterlimit: 10;
       }
 
       .cls-2 {
       font-size: 12px;
-      fill: #ffffff;
+      fill: #df3079;
       font-family: OpenSans-Regular, Open Sans;
       }
     </style>
